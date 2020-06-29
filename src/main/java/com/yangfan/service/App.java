@@ -12,5 +12,6 @@ public class App {
         String str = providerService.SayHello("hello");
         System.out.println(str);
         System.in.read();
+        //https://segmentfault.com/a/1190000019896723
     }
 }
